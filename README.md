@@ -38,6 +38,8 @@ Para personalizar a aplicação de acordo com suas necessidades:
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests com melhorias.
 
 ## Licença
-Este projeto está licenciado sob a GNU General Public License, Version 3, 29 June 2007. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.  
+
+Este projeto está licenciado sob a GNU General Public License, Version 3, 29 June 2007. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+
 ---
 Desenvolvido por Alan Diogo.
